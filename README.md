@@ -16,11 +16,10 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning **Python**  
-- 💻 I work with **Python**, and sometimes build fun side projects  
-- 💰 Into **crypto trading**, always looking for new opportunities  
-- 🛹 If I’m not coding, you’ll probably find me skateboarding or listening to music  
-- ⚡ Fun fact: **Once debugged a bug at 3 AM with only coffee and pure willpower**  
+- I’m currently learning **Python**  
+- I work with **Python**, and sometimes build fun side projects  
+- Into **crypto trading**, always looking for new opportunities  
+- Fun fact: **Once debugged a bug at 3 AM with only coffee and pure willpower**  
 - 📫 Reach me at: **exeaone@gmail.com**
 
 ---
