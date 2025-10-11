@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/Kd1AutC90hsAAAAi/pepe-thumbs-up.gif" width="120">
+  <img src="https://cdn3.emoji.gg/emojis/136857-pepesmoke.gif" width="120">
 </p>
 
 <h1 align="center"> Hi, I'm A 1</h1>
