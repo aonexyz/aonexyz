@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving hand gif">
+  <img src="https://media.tenor.com/Kd1AutC90hsAAAAi/pepe-thumbs-up.gif" width="120">
 </p>
 
 <h1 align="center"> Hi, I'm A 1</h1>
@@ -21,7 +21,7 @@
 - 💰 Into **crypto trading**, always looking for new opportunities  
 - 🛹 If I’m not coding, you’ll probably find me skateboarding or listening to music  
 - ⚡ Fun fact: **Once debugged a bug at 3 AM with only coffee and pure willpower**  
-- 📫 Reach me at: **aone@gmail.com**
+- 📫 Reach me at: **exeaone@gmail.com**
 
 ---
 
