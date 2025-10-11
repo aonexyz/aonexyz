@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🌱 I’m currently learning **Python**  
 - 💻 I work with **Python**, and sometimes build fun side projects  
 - 💰 Into **crypto trading**, always looking for new opportunities  
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -37,7 +37,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 - **[Discord Gemini Chat Bot](https://github.com/A1XIT/Discord-Ai-Bot)**  
   A multi-account Discord AI bot powered by **Google Gemini** that chats naturally, detects topics and sentiment, and levels up in servers for airdrops.  
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A1XIT&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1XIT&layout=compact&theme=tokyonight" alt="Top Languages">
