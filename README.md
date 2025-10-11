@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving hand gif">
 </p>
