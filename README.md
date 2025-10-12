@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 About Me
+# About Me
 - Currently learning **Python**  
 - I work with **Python** and build random side projects for fun  
 - Interested in **crypto trading** and tech innovation  
@@ -25,14 +25,14 @@
 
 ---
 
-### 🧰 Tech Stack
+# Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+# Featured Projects
 
 #### 🧩 [Discord Gemini Chat Bot](https://github.com/A1XIT/Discord-Ai-Bot)
 A multi-account Discord AI bot powered by **Google Gemini**.  
@@ -44,19 +44,18 @@ Mostly random. Occasionally brilliant.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonexyz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
+<div style="display: flex;">
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="A 1's Github Stats" /> 
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ---
 
-### ✨ Activity & Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aonexyz&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%"/>
-</p>
+<br>
 
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonexyz&theme=midnight_purple" />
+
+<br>
 ---
 
 <p align="center">
@@ -66,3 +65,11 @@ Mostly random. Occasionally brilliant.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
+</div>
+</details>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9F48E9&height=120&section=footer" width="100%" />
+
+</div>
