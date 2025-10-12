@@ -32,18 +32,6 @@
 
 ---
 
-# Featured Projects
-
-#### 🧩 [Discord Gemini Chat Bot](https://github.com/A1XIT/Discord-Ai-Bot)
-A multi-account Discord AI bot powered by **Google Gemini**.  
-It chats naturally, detects topics and sentiment, and even levels up in servers for airdrops.
-
-#### ⚙️ Personal Python Projects
-Small scripts, tools, and experiments I’ve built while learning.  
-Mostly random. Occasionally brilliant.
-
----
-
 <div style="display: flex;">
   <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="A 1's Github Stats" /> 
 <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
