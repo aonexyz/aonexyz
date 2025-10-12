@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there, I'm <strong>A 1</strong> 👋</h1>
 <p align="center">
-  <em>rookie Developer | AI Enthusiast | Building cool stuff with code</em>
+  <em>Passionate Developer | AI Enthusiast | Creating useful things with code</em>
 </p>
 
 <p align="center">
