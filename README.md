@@ -5,7 +5,7 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+1"Typing Animation">
  
-<em>Passionate Developer | AI Enthusiast | Crafting ideas into code</em>
+<em>Newbie Developer | AI Enthusiast | Crafting ideas into code</em>
 </h2>
 
 <p align="center">
@@ -44,7 +44,6 @@
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonexyz&theme=midnight_purple" />
 
 <br>
----
 
 <p align="center">
   <em>“Code, coffee, and a little chaos — that’s the vibe ☕💻”</em>
