@@ -2,11 +2,11 @@
   <img src="https://cdn3.emoji.gg/emojis/136857-pepesmoke.gif" width="120">
 </p>
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+1"Typing Animation">
  
-<em>Passionate Developer | AI Enthusiast | Creating useful things with code</em>
-</h1>
+<em>Passionate Developer | AI Enthusiast | Building cool stuff with code</em>
+</h2>
 
 <p align="center">
   <a href="https://x.com/aone_xyz" target="_blank">
