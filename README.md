@@ -2,10 +2,11 @@
   <img src="https://cdn3.emoji.gg/emojis/136857-pepesmoke.gif" width="120">
 </p>
 
-<h1 align="center">Hey there, I'm <strong>A 1</strong> 👋</h1>
-<p align="center">
-  <em>Passionate Developer | AI Enthusiast | Creating useful things with code</em>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+1"Typing Animation">
+ 
+<em>Passionate Developer | AI Enthusiast | Creating useful things with code</em>
+</h1>
 
 <p align="center">
   <a href="https://x.com/aone_xyz" target="_blank">
@@ -26,12 +27,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git" />
 </p>
 
 ---
@@ -50,8 +46,15 @@ Mostly random. Occasionally brilliant.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonexyz&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonexyz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+### ✨ Activity & Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aonexyz&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%"/>
 </p>
 
 ---
@@ -61,6 +64,5 @@ Mostly random. Occasionally brilliant.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
-
