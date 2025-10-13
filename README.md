@@ -31,19 +31,19 @@
 ---
 
 <h2 align="center">
-   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></strong>
+   <strong><em><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></em></strong>
 </h2>
 
-- Currently learning **Python**  
-- I work with **Python** and build random side projects for fun  
-- Interested in **crypto trading** and tech innovation  
-- Fun fact: Debugged a nasty bug at **3 AM** with just coffee and stubbornness  
-- 📫 Reach me at: **exeaone@gmail.com**
+**- Currently learning _Python_**  
+**- I work with _Python_ and build random side projects for fun**  
+**- Interested in _crypto trading_ and tech innovation**  
+**- Fun fact: Debugged a nasty bug at _3 AM_ with just coffee and stubbornness**  
+**- 📫 Reach me at: _exeaone@gmail.com_**
 
 ---
 
 <h2 align="center">
-   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></strong>
+   <strong><em><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></em></strong>
 </h2>
 
 <p align="center">
