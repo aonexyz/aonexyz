@@ -3,8 +3,18 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+1"Typing Animation">
- 
+<div align="center">
+  
+  <tr>
+    <td>
+        <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65">
+     </td>
+     <td>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+ONE" alt="Typing Animation">
+      </td>
+    </tr>
+  </div>
+  
 <em>Rookie Developer | AI Enthusiast | Crafting ideas into code</em>
 </h2>
 
