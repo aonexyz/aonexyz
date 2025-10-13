@@ -16,7 +16,7 @@
 
 ---
 
-# About Me
+## About Me
 - Currently learning **Python**  
 - I work with **Python** and build random side projects for fun  
 - Interested in **crypto trading** and tech innovation  
@@ -25,7 +25,7 @@
 
 ---
 
-# Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git" />
 </p>
