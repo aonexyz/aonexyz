@@ -30,7 +30,10 @@
 
 ---
 
-## About Me
+<h2 align="center">
+   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></strong>
+</h2>
+
 - Currently learning **Python**  
 - I work with **Python** and build random side projects for fun  
 - Interested in **crypto trading** and tech innovation  
@@ -39,10 +42,14 @@
 
 ---
 
-## Tech Stack
+<h2 align="center">
+   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></strong>
+</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git" />
 </p>
+
 
 ---
 
