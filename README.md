@@ -7,10 +7,10 @@
   
   <tr>
     <td>
-        <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65">
+        <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60">
      </td>
      <td>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+ONE" alt="Typing Animation">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+One" alt="Typing Animation">
       </td>
     </tr>
   </div>
