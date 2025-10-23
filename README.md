@@ -55,7 +55,7 @@
 
 <div style="display: flex;">
   <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="A 1's Github Stats" /> 
-<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonexyz&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
