@@ -31,7 +31,7 @@
 ---
 
 <h2 align="center">
-   <strong><em><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></em></strong>
+   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></strong>
 </h2>
 
 **- Currently learning _Python_**  
@@ -43,7 +43,7 @@
 ---
 
 <h2 align="center">
-   <strong><em><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></em></strong>
+   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></strong>
 </h2>
 
 <p align="center">
