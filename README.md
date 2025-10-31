@@ -20,13 +20,10 @@
 
 <p align="center">
   <a href=<div class="social-icons">
-  <a href="https://x.com/aone_xyz" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://t.me/A1XIT" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  </p>
+<a href="mailto:exeaone@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
+</a>
+</p>
 
 ---
 
