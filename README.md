@@ -19,10 +19,9 @@
 </h2>
 
 <p align="center">
-  <a href=<div class="social-icons">
-<a href="mailto:exeaone@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
-</a>
+  <a href="https://bio.site/aone">
+    <img src="https://img.shields.io/badge/-bio.site-000?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Bio Site">
+  </a>
 </p>
 
 ---
