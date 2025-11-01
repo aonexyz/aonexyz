@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+One" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+Anik❗" alt="Typing Animation">
 </td>
 </tr>
 </div>
@@ -26,7 +26,7 @@
 
 <h2 style="text-align:center;">
 <img style="position: relative; left: 30px;" 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=ABOUT+ME" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C2FF&vCenter=true&width=450&lines=ABOUT+ME" 
 alt="Typing Animation">
 </h2>
 
@@ -40,7 +40,7 @@ alt="Typing Animation">
 
 <h2 style="text-align:center;">
 <img style="position: relative; left: 30px;" 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=TECH+STACK" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C2FF&vCenter=true&width=450&lines=TECH+STACK" 
 alt="Typing Animation">
 </h2>
 <p align="center">
