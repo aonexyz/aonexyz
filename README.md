@@ -24,8 +24,10 @@
 
 ---
 
-<h2 align="center">
-<strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></strong>
+<h2 style="text-align:center;">
+<img style="position: relative; left: 30px;" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=ABOUT+ME" 
+alt="Typing Animation">
 </h2>
 
 **- Currently learning _Python_**  
@@ -36,8 +38,10 @@
 
 ---
 
-<h2 align="center">
-   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></strong>
+<h2 style="text-align:center;">
+<img style="position: relative; left: 30px;" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=TECH+STACK" 
+alt="Typing Animation">
 </h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,css,html,docker,git" />
