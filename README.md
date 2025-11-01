@@ -1,33 +1,31 @@
 <p align="center">
-  <img src="https://cdn3.emoji.gg/emojis/136857-pepesmoke.gif" width="120">
+<img src="https://cdn3.emoji.gg/emojis/136857-pepesmoke.gif" width="120">
 </p>
 
 <h2 align="center">
 <div align="center">
-  
-  <tr>
-    <td>
-        <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60">
-     </td>
-     <td>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+One" alt="Typing Animation">
-      </td>
-    </tr>
-  </div>
-  
+<tr>
+<td>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="60">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&vCenter=true&width=450&lines=Hey+there%2C+I'm+A+One" alt="Typing Animation">
+</td>
+</tr>
+</div>
 <em>Rookie Developer | AI Enthusiast | Crafting ideas into code</em>
 </h2>
 
 <p align="center">
-  <a href="https://bio.site/aone">
-    <img src="https://img.shields.io/badge/-bio.site-000?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Bio Site">
-  </a>
+<a href="https://bio.site/aone">
+<img src="https://img.shields.io/badge/-bio.site-000?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Bio Site">
+</a>
 </p>
 
 ---
 
 <h2 align="center">
-   <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></strong>
+<strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">ABOUT ME</span></strong>
 </h2>
 
 **- Currently learning _Python_**  
@@ -41,33 +39,27 @@
 <h2 align="center">
    <strong><span style="font-family: 'Fira Code', monospace; font-size: 24px;">TECH STACK</span></strong>
 </h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git" />
+<img src="https://skillicons.dev/icons?i=python,javascript,css,html,docker,git" />
 </p>
-
 
 ---
 
 <div style="display: flex;">
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="A 1's Github Stats" /> 
+<img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="A 1's Github Stats" /> 
 <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonexyz&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
 
 <br>
-
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonexyz&theme=midnight_purple" />
-
 <br>
-
 <p align="center">
-  <em>“Code, coffee, and a little chaos — that’s the vibe ☕💻”</em>
+<em>“Code, coffee, and a little chaos — that’s the vibe ☕💻”</em>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
 </div>
 </details>
@@ -75,5 +67,4 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9F48E9&height=120&section=footer" width="100%" />
-
 </div>
