@@ -17,8 +17,8 @@
 </h2>
 
 <p align="center">
-<a href="https://bio.site/aone">
-<img src="https://img.shields.io/badge/-bio.site-000?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Bio Site">
+<a href="https://aonexyz.vercel.app/">
+<img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Portfolio">
 </a>
 </p>
 
@@ -60,7 +60,7 @@ alt="Typing Animation">
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonexyz&theme=midnight_purple" />
 <br>
 <p align="center">
-<em>“Code, coffee, and a little chaos — that’s the vibe ☕💻”</em>
+<em>nicotine, Code, coffee, and a little chaos that’s the vibe ☕💻</em>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
