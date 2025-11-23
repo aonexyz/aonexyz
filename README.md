@@ -54,7 +54,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&p
 alt="Typing Animation">
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,css,html,docker,git,nodejs,java,c,typescript,express,react,powershell" />
+<img src="https://skillicons.dev/icons?i=python,javascript,css,html,docker,git,nodejs,java,c,typescript,express,react,figma,powershell" />
 </p>
 
 ---
