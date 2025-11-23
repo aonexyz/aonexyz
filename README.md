@@ -30,11 +30,21 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&p
 alt="Typing Animation">
 </h2>
 
-**- Currently learning _Python_**  
-**- I work with _Python_ and build random side projects for fun**  
-**- Interested in _crypto trading_ and tech innovation**  
-**- Fun fact: Debugged a nasty bug at _3 AM_ with just coffee and stubbornness**  
-**- 📫 Reach me at: _exeaone@gmail.com_**
+<h4>
+  
+*Hey, I’m Anik a tech enthusiast deeply interested in web development, automation tools, extensions, bots, AI, blockchain and crypto.*
+
+- *I love exploring new technologies and learning new concepts every day.*
+
+- *I enjoy turning random ideas into real projects just for fun and experimentation.*
+
+- *Building things from scratch motivates me and helps me grow as a developer.*
+
+- *I’m always experimenting and improving my skills to stay ahead in the tech world.*
+
+- *In the future, I hope to create something impactful, meaningful, and truly exciting for the tech community.*
+
+</h4>
 
 ---
 
@@ -44,7 +54,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&p
 alt="Typing Animation">
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,css,html,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,javascript,css,html,docker,git,nodejs,java,c,typescript,express,react,powershell" />
 </p>
 
 ---
