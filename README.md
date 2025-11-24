@@ -13,7 +13,7 @@
 </td>
 </tr>
 </div>
-<em>Rookie Developer | AI Enthusiast | Crafting ideas into code</em>
+<em>Rookie Developer | Tech Enthusiast | Crafting ideas into code</em>
 </h2>
 
 <p align="center">
