@@ -59,9 +59,39 @@ alt="Typing Animation">
 
 ---
 
-<div style="display: flex;">
-<img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="A 1's Github Stats" /> 
-<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonexyz&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
+<div>
+<picture>
+<source 
+media="(prefers-color-scheme: dark)" 
+srcset="https://github-readme-stats-one-pi-18.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117"
+>
+<source 
+media="(prefers-color-scheme: light)" 
+srcset="https://github-readme-stats-one-pi-18.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff"
+>
+<img 
+width="55%" 
+height="195px" 
+alt="GitHub Stats" 
+src="https://github-readme-stats-one-pi-18.vercel.app/api?username=aonexyz&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff"
+>
+</picture>
+<picture>
+<source 
+media="(prefers-color-scheme: dark)" 
+srcset="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=aonexyz&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117"
+>
+<source 
+media="(prefers-color-scheme: light)" 
+srcset="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=aonexyz&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff"
+>
+<img 
+width="44%" 
+height="195px" 
+alt="Top Languages" 
+src="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=aonexyz&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff"
+>
+</picture>
 </div>
 
 ---
