@@ -100,7 +100,7 @@ src="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=ao
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonexyz&theme=midnight_purple" />
 <br>
 <p align="center">
-<em>nicotine, Code, coffee, and a little chaos that’s the vibe ☕💻</em>
+<em>Nicotine, code, coffee, and a little chaos that’s the vibe ☕💻</em>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
