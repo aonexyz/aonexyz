@@ -96,12 +96,25 @@ src="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=ao
 
 ---
 
-<br>
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonexyz&theme=midnight_purple" />
-<br>
-<p align="center">
-<em>Nicotine, code, coffee, and a little chaos that’s the vibe ☕💻</em>
-</p>
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-streak-stats-tawny-xi-41.vercel.app/?user=aonexyz&theme=aura&hide_border=false"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-streak-stats-tawny-xi-41.vercel.app/?user=aonexyz&theme=github&hide_border=false"
+    >
+    <img 
+      alt="GitHub Streak Stats" 
+      height="180em"
+      src="https://github-readme-streak-stats-tawny-xi-41.vercel.app/?user=aonexyz&theme=github&hide_border=false"
+    >
+  </picture>
+
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=A1XIT&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
