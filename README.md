@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-<a href="https://aonexyz.vercel.app/">
+<a href="https://aonexyz.netlify.app">
 <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Portfolio">
 </a>
 </p>
